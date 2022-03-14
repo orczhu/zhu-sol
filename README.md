@@ -1,0 +1,2 @@
+# zhu-sol
+learn solidity
